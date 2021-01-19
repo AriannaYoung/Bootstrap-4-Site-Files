@@ -35,11 +35,11 @@ color: #222;
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
 }
-.btn-primary{
+.btn-primary {
   background-color: #66481b;
-  border: 1px solid #563d7c;
+  border: 1px solid #66481b;
 }
-.btn-primary:hover{
+.btn-primary:hover {
   background-color: #563d7c;
   border: 1px solid #563d7c;
 }
