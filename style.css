@@ -177,6 +177,9 @@ padding: 8px 14px;
 font-size: 90%;
 padding: 4px 8px;
 }
+.carousel-indicators{
+  display: none;
+}
 }
 
 
