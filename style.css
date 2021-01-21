@@ -4,7 +4,7 @@ html, body {
  height: 100;
 width: 100;
 font-family: "Poppins", sans-serif;
-color: #222;
+color: rgb(2, 58, 37);
 }
 .navbar {
  padding: .8rem;
@@ -27,7 +27,7 @@ color: #222;
 .carousel-caption h1 {
   font-size: 500%;
   text-transform: uppercase;
-  text-shadow: 1px 1px 15px #000;
+  text-shadow: 1px 1px 15px rgb(219, 243, 8);
 }
 .carousel.caption h3 {
   font-size: 200%;
