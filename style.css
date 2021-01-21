@@ -36,11 +36,11 @@ color: rgb(2, 58, 37);
   padding-bottom: 1rem;
 }
 .btn-primary {
-  background-color: #6648b1;
+  background-color: #090df1;
   border: 1px solid #6648b1;
 }
 .btn-primary:hover {
-  background-color: #563d7c;
+  background-color: #e60f68;
   border: 1px solid #563d7c;
 }
 .jumbotron {
